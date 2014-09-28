@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About FlashCoin</source>
-        <translation>Over FlashCoin</translation>
+        <source>About XOR</source>
+        <translation>Over XOR</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;FlashCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;FlashCoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;XOR&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XOR&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FlashCoin developers</source>
+Copyright © 2014 The XOR developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De FlashCoin ontwikkelaars</translation>
+Copyright © 2014 De XOR ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your FlashCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou FlashCoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your XOR addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou XOR adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a FlashCoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een FlashCoin adres bezit.</translation>
+        <source>Sign a message to prove you own a XOR address</source>
+        <translation>Teken een bericht om te bewijzen dat je een XOR adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified FlashCoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek FlashCoin adres</translation>
+        <source>Verify a message to ensure it was signed with a specified XOR address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek XOR adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>FlashCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>FlashCoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>XOR will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>XOR zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about FlashCoin</source>
-        <translation>Toon informatie over FlashCoin</translation>
+        <source>Show information about XOR</source>
+        <translation>Toon informatie over XOR</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a FlashCoin address</source>
-        <translation>Verstuur munten naar een FlashCoin adres</translation>
+        <source>Send coins to a XOR address</source>
+        <translation>Verstuur munten naar een XOR adres</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for FlashCoin</source>
-        <translation>Verander configuratie opties voor FlashCoin</translation>
+        <source>Modify configuration options for XOR</source>
+        <translation>Verander configuratie opties voor XOR</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-202"/>
-        <source>FlashCoin</source>
-        <translation>FlashCoin</translation>
+        <source>XOR</source>
+        <translation>XOR</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About FlashCoin</source>
-        <translation>&amp;Over FlashCoin</translation>
+        <source>&amp;About XOR</source>
+        <translation>&amp;Over XOR</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>FlashCoin client</source>
-        <translation>FlashCoin client</translation>
+        <source>XOR client</source>
+        <translation>XOR client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to FlashCoin network</source>
-        <translation><numerusform>%n actieve verbinding naar FlashCoin netwerk</numerusform><numerusform>%n actieve verbindingen naar FlashCoin netwerk</numerusform></translation>
+        <source>%n active connection(s) to XOR network</source>
+        <translation><numerusform>%n actieve verbinding naar XOR netwerk</numerusform><numerusform>%n actieve verbindingen naar XOR netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-312"/>
-        <source>About FlashCoin card</source>
-        <translation>Over FlashCoin card</translation>
+        <source>About XOR card</source>
+        <translation>Over XOR card</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about FlashCoin card</source>
-        <translation>Toon informatie over FlashCoin card</translation>
+        <source>Show information about XOR card</source>
+        <translation>Toon informatie over XOR card</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid FlashCoin address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig FlashCoin adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XOR address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig XOR adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. FlashCoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . FlashCoin kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. XOR can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . XOR kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid FlashCoin address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig FlashCoin adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XOR address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig XOR adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>FlashCoin-Qt</source>
-        <translation>FlashCoin-Qt</translation>
+        <source>XOR-Qt</source>
+        <translation>XOR-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start FlashCoin after logging in to the system.</source>
-        <translation>Automatisch starten van FlashCoin na inloggen van het systeem.</translation>
+        <source>Automatically start XOR after logging in to the system.</source>
+        <translation>Automatisch starten van XOR na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start FlashCoin on system login</source>
-        <translation>&amp;Start FlashCoin bij systeem aanmelding</translation>
+        <source>&amp;Start XOR on system login</source>
+        <translation>&amp;Start XOR bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the FlashCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De FlashCoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the XOR client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De XOR client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the FlashCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het FlashCoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the XOR network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het XOR netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting FlashCoin.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na FlashCoin opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XOR.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na XOR opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show FlashCoin addresses in the transaction list or not.</source>
-        <translation>FlashCoin adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show XOR addresses in the transaction list or not.</source>
+        <translation>XOR adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting FlashCoin.</source>
-        <translation>Deze instelling word toegepast na een restart van FlashCoin.</translation>
+        <source>This setting will take effect after restarting XOR.</source>
+        <translation>Deze instelling word toegepast na een restart van XOR.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FlashCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het FlashCoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XOR network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het XOR netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the FlashCoin-Qt help message to get a list with possible FlashCoin command-line options.</source>
-        <translation>Laat het FlashCoin-QT help bericht zien om een lijst te krijgen met mogelijke FlashCoin command-regel opties.</translation>
+        <source>Show the XOR-Qt help message to get a list with possible XOR command-line options.</source>
+        <translation>Laat het XOR-QT help bericht zien om een lijst te krijgen met mogelijke XOR command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>FlashCoin - Debug window</source>
-        <translation>FlashCoin - Debugscherm</translation>
+        <source>XOR - Debug window</source>
+        <translation>XOR - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>FlashCoin Core</source>
-        <translation>FlashCoin Kern</translation>
+        <source>XOR Core</source>
+        <translation>XOR Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the FlashCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het FlashCoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the XOR debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het XOR debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the FlashCoin RPC console.</source>
-        <translation>Welkom bij de FlashCoin RPC console.</translation>
+        <source>Welcome to the XOR RPC console.</source>
+        <translation>Welkom bij de XOR RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1681,8 +1681,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 FLASH</source>
-        <translation>123.456 FLASH</translation>
+        <source>0.00 XOR</source>
+        <translation>123.456 XOR</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1751,8 +1751,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 FLASH</source>
-        <translation>123.456 FLASH</translation>
+        <source>123.456 XOR</source>
+        <translation>123.456 XOR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1766,8 +1766,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Voeg een FlashCoin adres in (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Voeg een XOR adres in (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid FlashCoin address</source>
-        <translation>WAARSCHUWING: Ongeldig FlashCoin adres</translation>
+        <source>WARNING: Invalid XOR address</source>
+        <translation>WAARSCHUWING: Ongeldig XOR adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1940,8 +1940,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Voeg een FlashCoin adres in (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Voeg een XOR adres in (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
 </context>
 <context>
@@ -2001,8 +2001,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this FlashCoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een FlashCoin adres bezit.</translation>
+        <source>Sign the message to prove you own this XOR address</source>
+        <translation>Teken een bericht om te bewijzen dat je een XOR adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified FlashCoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek FlashCoin adres</translation>
+        <source>Verify the message to ensure it was signed with the specified XOR address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek XOR adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Voeg een FlashCoin adres in (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Voeg een XOR adres in (bijv. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter FlashCoin signature</source>
-        <translation>Voer FlashCoin handtekening in</translation>
+        <source>Enter XOR signature</source>
+        <translation>Voer XOR handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>FlashCoin version</source>
-        <translation>FlashCoin versie</translation>
+        <source>XOR version</source>
+        <translation>XOR versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or FlashCoind</source>
-        <translation>Verstuur commando naar -server of FlashCoind</translation>
+        <source>Send command to -server or XORd</source>
+        <translation>Verstuur commando naar -server of XORd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: FlashCoin.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: FlashCoin.conf)</translation>
+        <source>Specify configuration file (default: XOR.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: XOR.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: FlashCoind.pid)</source>
-        <translation>Selecteer pid bestand (standaard: FlashCoin.conf)</translation>
+        <source>Specify pid file (default: XORd.pid)</source>
+        <translation>Selecteer pid bestand (standaard: XOR.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FlashCoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is FlashCoin zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XOR will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is XOR zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=FlashCoinrpc
+rpcuser=XORrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;FlashCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XOR Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = FlashCoinrpc 
+rpcuser = XORrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;FlashCoin Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;XOR Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3141,13 +3141,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;FlashCoin Alert&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  FlashCoin is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. FlashCoin wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  XOR is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. XOR wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>FlashCoin</source>
-        <translation>FlashCoin</translation>
+        <source>XOR</source>
+        <translation>XOR</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3181,13 +3181,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;FlashCoin Alert&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of FlashCoin</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van FlashCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XOR</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van XOR</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart FlashCoin to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart FlashCoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart XOR to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart XOR om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3256,8 +3256,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;FlashCoin Alert&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. FlashCoin is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. FlashCoin is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. XOR is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. XOR is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>

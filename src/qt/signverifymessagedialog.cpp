@@ -24,11 +24,11 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)"));
-    ui->signatureIn_VM->setPlaceholderText(tr("Enter FlashCoin signature"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)"));
+    ui->signatureIn_VM->setPlaceholderText(tr("Enter XOR signature"));
 #endif
 
     GUIUtil::setupAddressWidget(ui->addressIn_SM, this);

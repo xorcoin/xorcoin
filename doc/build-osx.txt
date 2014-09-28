@@ -7,12 +7,12 @@ software written by Eric Young (eay@cryptsoft.com) and UPnP software written by
 Thomas Bernard.
 
 
-Mac OS X FlashCoind build instructions
+Mac OS X XORd build instructions
 Laszlo Hanyecz <solar@heliacal.net>
 Douglas Huff <dhuff@jrbobdobbs.org>
 
 
-See readme-qt.rst for instructions on building FlashCoin QT, the
+See readme-qt.rst for instructions on building XOR QT, the
 graphical user interface.
 
 Tested on 10.5 and 10.6 intel.  PPC is not supported because it's big-endian.
@@ -27,7 +27,7 @@ but you can get the current version from http://developer.apple.com
 
 1.  Clone the github tree to get the source code:
 
-git clone git@github.com:rat4/FlashCoin.git FlashCoin
+git clone git@github.com:rat4/XOR.git XOR
 
 2.  Download and install MacPorts from http://www.macports.org/
 
@@ -41,14 +41,14 @@ sudo port install boost db48 openssl miniupnpc
 Optionally install qrencode (and set USE_QRCODE=1):
 sudo port install qrencode
 
-4.  Now you should be able to build FlashCoind:
+4.  Now you should be able to build XORd:
 
-cd FlashCoin/src
+cd XOR/src
 make -f makefile.osx
 
 Run:
-  ./FlashCoind --help  # for a list of command-line options.
+  ./XORd --help  # for a list of command-line options.
 Run
-  ./FlashCoind -daemon # to start the FlashCoin daemon.
+  ./XORd -daemon # to start the XOR daemon.
 Run
-  ./FlashCoind help # When the daemon is running, to get a list of RPC commands
+  ./XORd help # When the daemon is running, to get a list of RPC commands

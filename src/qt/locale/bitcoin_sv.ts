@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About FlashCoin</source>
-        <translation>Vad du behöver veta om FlashCoin</translation>
+        <source>About XOR</source>
+        <translation>Vad du behöver veta om XOR</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;FlashCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;FlashCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;XOR&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XOR&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FlashCoin developers</source>
+Copyright © 2014 The XOR developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FlashCoin developers</translation>
+Copyright © 2014 The XOR developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your FlashCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina FlashCoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your XOR addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina XOR adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a FlashCoin address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger FlashCoin adressen</translation>
+        <source>Sign a message to prove you own a XOR address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger XOR adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified FlashCoin address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik FlashCoin adress</translation>
+        <source>Verify a message to ensure it was signed with a specified XOR address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik XOR adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -264,8 +264,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>FlashCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>FlashCoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>XOR will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>XOR plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about FlashCoin</source>
-        <translation>Visa information om FlashCoin</translation>
+        <source>Show information about XOR</source>
+        <translation>Visa information om XOR</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a FlashCoin address</source>
-        <translation>Skicka coins till en FlashCoin adress</translation>
+        <source>Send coins to a XOR address</source>
+        <translation>Skicka coins till en XOR adress</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for FlashCoin</source>
-        <translation>Modifiera konfigurations-alternativ för FlashCoin</translation>
+        <source>Modify configuration options for XOR</source>
+        <translation>Modifiera konfigurations-alternativ för XOR</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-202"/>
-        <source>FlashCoin</source>
-        <translation>FlashCoin</translation>
+        <source>XOR</source>
+        <translation>XOR</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About FlashCoin</source>
-        <translation>&amp;Om FlashCoin</translation>
+        <source>&amp;About XOR</source>
+        <translation>&amp;Om XOR</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>FlashCoin client</source>
-        <translation>FlashCoin klient</translation>
+        <source>XOR client</source>
+        <translation>XOR klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to FlashCoin network</source>
-        <translation><numerusform>%n aktiv anslutning till FlashCoin nätverket</numerusform><numerusform>%n aktiva anslutning till FlashCoin nätverket</numerusform></translation>
+        <source>%n active connection(s) to XOR network</source>
+        <translation><numerusform>%n aktiv anslutning till XOR nätverket</numerusform><numerusform>%n aktiva anslutning till XOR nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -585,13 +585,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-312"/>
-        <source>About FlashCoin card</source>
-        <translation>Om FlashCoin kortet</translation>
+        <source>About XOR card</source>
+        <translation>Om XOR kortet</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about FlashCoin card</source>
-        <translation>Via information om FlashCoin kortet</translation>
+        <source>Show information about XOR card</source>
+        <translation>Via information om XOR kortet</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -670,8 +670,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid FlashCoin address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig FlashCoin adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XOR address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig XOR adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -730,8 +730,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. FlashCoin can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. FlashCoin kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. XOR can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. XOR kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
 <context>
@@ -1025,7 +1025,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna FlashCoin-adress</translation>
+        <translation>Namnet som kopplats till denna XOR-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1064,8 +1064,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid FlashCoin address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig FlashCoin adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XOR address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig XOR adress.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1083,8 +1083,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>FlashCoin-Qt</source>
-        <translation>FlashCoin-Qt</translation>
+        <source>XOR-Qt</source>
+        <translation>XOR-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1156,13 +1156,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start FlashCoin after logging in to the system.</source>
-        <translation>Starta FlashCoin automatiskt vid inloggning.</translation>
+        <source>Automatically start XOR after logging in to the system.</source>
+        <translation>Starta XOR automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start FlashCoin on system login</source>
-        <translation>&amp;Starta FlashCoin vid inloggning</translation>
+        <source>&amp;Start XOR on system login</source>
+        <translation>&amp;Starta XOR vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the FlashCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt FlashCoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the XOR client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt XOR klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1191,8 +1191,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the FlashCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till FlashCoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the XOR network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till XOR nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1266,8 +1266,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting FlashCoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av FlashCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XOR.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av XOR.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1281,8 +1281,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show FlashCoin addresses in the transaction list or not.</source>
-        <translation>Om FlashCoin adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show XOR addresses in the transaction list or not.</source>
+        <translation>Om XOR adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1328,8 +1328,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting FlashCoin.</source>
-        <translation>Inställningen börjar gälla efter omstart av FlashCoin.</translation>
+        <source>This setting will take effect after restarting XOR.</source>
+        <translation>Inställningen börjar gälla efter omstart av XOR.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1347,8 +1347,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FlashCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med FlashCoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XOR network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med XOR nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1563,8 +1563,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the FlashCoin-Qt help message to get a list with possible FlashCoin command-line options.</source>
-        <translation>Visa FlashCoin-Qt hjälp meddelandet för att få en lista över möjliga FlashCoin kommandoradsalternativ.</translation>
+        <source>Show the XOR-Qt help message to get a list with possible XOR command-line options.</source>
+        <translation>Visa XOR-Qt hjälp meddelandet för att få en lista över möjliga XOR kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1583,13 +1583,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>FlashCoin - Debug window</source>
-        <translation>FlashCoin - Felsökningsfönster</translation>
+        <source>XOR - Debug window</source>
+        <translation>XOR - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>FlashCoin Core</source>
-        <translation>FlashCoin Core</translation>
+        <source>XOR Core</source>
+        <translation>XOR Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the FlashCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna FlashCoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the XOR debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna XOR felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1608,8 +1608,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the FlashCoin RPC console.</source>
-        <translation>Välkommen till FlashCoin RPC konsoll.</translation>
+        <source>Welcome to the XOR RPC console.</source>
+        <translation>Välkommen till XOR RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1682,8 +1682,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 FLASH</source>
-        <translation>123.456 FLASH {0.00 ?}</translation>
+        <source>0.00 XOR</source>
+        <translation>123.456 XOR {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1752,8 +1752,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 FLASH</source>
-        <translation>123.456 FLASH</translation>
+        <source>123.456 XOR</source>
+        <translation>123.456 XOR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1767,8 +1767,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Fyll i en FlashCoin adress (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Fyll i en XOR adress (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1867,8 +1867,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid FlashCoin address</source>
-        <translation>VARNING: Ogiltig FlashCoin adress</translation>
+        <source>WARNING: Invalid XOR address</source>
+        <translation>VARNING: Ogiltig XOR adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1941,8 +1941,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Fyll i en FlashCoin adress (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Fyll i en XOR adress (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
 </context>
 <context>
@@ -2002,8 +2002,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this FlashCoin address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna FlashCoin adressen</translation>
+        <source>Sign the message to prove you own this XOR address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna XOR adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified FlashCoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna FlashCoin adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified XOR address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna XOR adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Fyll i en FlashCoin adress (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Fyll i en XOR adress (t.ex. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2055,8 +2055,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter FlashCoin signature</source>
-        <translation>Fyll i FlashCoin signatur</translation>
+        <source>Enter XOR signature</source>
+        <translation>Fyll i XOR signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>FlashCoin version</source>
-        <translation>FlashCoin version</translation>
+        <source>XOR version</source>
+        <translation>XOR version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2636,8 +2636,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or FlashCoind</source>
-        <translation>Skicka kommando till -server eller FlashCoind</translation>
+        <source>Send command to -server or XORd</source>
+        <translation>Skicka kommando till -server eller XORd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2656,13 +2656,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: FlashCoin.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: FlashCoin.conf)</translation>
+        <source>Specify configuration file (default: XOR.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: XOR.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: FlashCoind.pid)</source>
-        <translation>Ange pid filen (standard FlashCoind.pid)</translation>
+        <source>Specify pid file (default: XORd.pid)</source>
+        <translation>Ange pid filen (standard XORd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2811,8 +2811,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FlashCoin will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. FlashCoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XOR will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum är rätt. XOR kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3001,24 +3001,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=FlashCoinrpc
+rpcuser=XORrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;FlashCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XOR Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=FlashCoinrpc
+rpcuser=XORrpc
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;FlashCoin Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;XOR Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3143,13 +3143,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;FlashCoin Varning&quot; admin
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  FlashCoin is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. FlashCoin är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  XOR is probably already running.</source>
+        <translation>Kan inte låsa datan i mappen %s. XOR är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>FlashCoin</source>
-        <translation>FlashCoin</translation>
+        <source>XOR</source>
+        <translation>XOR</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3183,13 +3183,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;FlashCoin Varning&quot; admin
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of FlashCoin</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av FlashCoin krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XOR</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av XOR krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart FlashCoin to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om FlashCoin för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart XOR to complete</source>
+        <translation>Plånboken måste skrivas om: Starta om XOR för att slutföra</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3258,8 +3258,8 @@ till exempel: alertnotify=echo %%s | mail -s &quot;FlashCoin Varning&quot; admin
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. FlashCoin is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. FlashCoin är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. XOR is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. XOR är sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>

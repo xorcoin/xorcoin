@@ -527,7 +527,7 @@ void StakeMiner(CWallet *pwallet)
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
 
     // Make this thread recognisable as the mining thread
-    RenameThread("FlashCoin-miner");
+    RenameThread("XOR-miner");
 
     bool fTryToSync = true;
 

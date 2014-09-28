@@ -1,8 +1,8 @@
-// Copyright (c) 2012-2013 The FlashCoin developers
+// Copyright (c) 2012-2013 The XOR developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
-#ifndef FlashCoin_KERNEL_H
-#define FlashCoin_KERNEL_H
+#ifndef XOR_KERNEL_H
+#define XOR_KERNEL_H
 
 #include "main.h"
 

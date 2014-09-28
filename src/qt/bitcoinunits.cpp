@@ -34,7 +34,7 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("FLASH");
+    case BTC: return QString("XOR");
     case mBTC: return QString("mSUM");
     case uBTC: return QString::fromUtf8("μSUM");
     default: return QString("???");
@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("FlashCoins");
-    case mBTC: return QString("Milli-FlashCoins (1 / 1,000)");
-    case uBTC: return QString("Micro-FlashCoins (1 / 1,000,000)");
+    case BTC: return QString("XORs");
+    case mBTC: return QString("Milli-XORs (1 / 1,000)");
+    case uBTC: return QString("Micro-XORs (1 / 1,000,000)");
     default: return QString("???");
     }
 }

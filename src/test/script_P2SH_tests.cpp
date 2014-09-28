@@ -119,7 +119,7 @@ BOOST_AUTO_TEST_CASE(norecurse)
     // Make sure only the outer pay-to-script-hash does the
     // extra-validation thing:
     CScript invalidAsScript;
-    invalidAsScript << OP_INVALIDFLASHODE << OP_INVALIDFLASHODE;
+    invalidAsScript << OP_INVALIDXORODE << OP_INVALIDXORODE;
 
     CScript p2sh;
     p2sh.SetDestination(invalidAsScript.GetID());
@@ -127,7 +127,7 @@ BOOST_AUTO_TEST_CASE(norecurse)
     CScript scriptSig;
     scriptSig << Serialize(invalidAsScript);
 
-    // Should not verify, because it will try to execute OP_INVALIDFLASHODE
+    // Should not verify, because it will try to execute OP_INVALIDXORODE
     BOOST_CHECK(!Verify(scriptSig, p2sh, true));
 
     // Try to recur, and verification should succeed because

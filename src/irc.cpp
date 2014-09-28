@@ -189,7 +189,7 @@ bool GetIPFromIRC(SOCKET hSocket, string strMyName, CNetAddr& ipRet)
 void ThreadIRCSeed(void* parg)
 {
     // Make this thread recognisable as the IRC seeding thread
-    RenameThread("FlashCoin-ircseed");
+    RenameThread("XOR-ircseed");
 
     try
     {
@@ -302,10 +302,10 @@ void ThreadIRCSeed2(void* parg)
         }
 
         if (fTestNet) {
-            Send(hSocket, "JOIN #FlashCoinTEST\r");
-            Send(hSocket, "WHO #FlashCoinTEST\r");
+            Send(hSocket, "JOIN #XORTEST\r");
+            Send(hSocket, "WHO #XORTEST\r");
         } else {
-            // randomly join #FlashCoin00-#FlashCoin05
+            // randomly join #XOR00-#XOR05
             //int channel_number = GetRandInt(5);
             int channel_number = 0;
             // Channel number is always 0 for initial release

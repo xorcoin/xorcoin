@@ -26,7 +26,7 @@ class CInv;
 class CRequestTracker;
 class CNode;
 
-static const int LAST_POW_BLOCK = 970;
+static const int LAST_POW_BLOCK = 1690;
 
 static const unsigned int MAX_BLOCK_SIZE = 1000000;
 static const unsigned int MAX_BLOCK_SIZE_GEN = MAX_BLOCK_SIZE/2;
@@ -35,9 +35,9 @@ static const unsigned int MAX_ORPHAN_TRANSACTIONS = MAX_BLOCK_SIZE/100;
 static const unsigned int MAX_INV_SZ = 50000;
 static const int64_t MIN_TX_FEE = 10000;
 static const int64_t MIN_RELAY_TX_FEE = MIN_TX_FEE;
-static const int64_t MAX_MONEY = 24000000 * COIN;
-static const int64_t MAX_MINT_PROOF_OF_STAKE = 0.1 * COIN;	// 10% monthly interest
-static const int64_t COIN_YEAR_REWARD = 10 * CENT; // 10% per year
+static const int64_t MAX_MONEY = 1728000 * COIN;
+static const int64_t MAX_MINT_PROOF_OF_STAKE = 0.33 * COIN;	// 10% monthly interest
+static const int64_t COIN_YEAR_REWARD = 33 * CENT; // 10% per year
 
 
 
@@ -534,7 +534,7 @@ public:
 
     bool IsCoinStake() const
     {
-        // FlashCoin: the coin stake transaction is marked with the first output empty
+        // XOR: the coin stake transaction is marked with the first output empty
         return (vin.size() > 0 && (!vin[0].prevout.IsNull()) && vout.size() >= 2 && vout[0].IsEmpty());
     }
 
@@ -698,7 +698,7 @@ public:
     bool ClientConnectInputs();
     bool CheckTransaction() const;
     bool AcceptToMemoryPool(CTxDB& txdb, bool fCheckInputs=true, bool* pfMissingInputs=NULL);
-    bool GetCoinAge(CTxDB& txdb, uint64_t& nCoinAge) const;  // FlashCoin: get transaction coin age
+    bool GetCoinAge(CTxDB& txdb, uint64_t& nCoinAge) const;  // XOR: get transaction coin age
 
 protected:
     const CTxOut& GetOutputFor(const CTxIn& input, const MapPrevTx& inputs) const;
@@ -850,7 +850,7 @@ public:
     // network and disk
     std::vector<CTransaction> vtx;
 
-    // FlashCoin: block signature - signed by one of the coin base txout[N]'s owner
+    // XOR: block signature - signed by one of the coin base txout[N]'s owner
     std::vector<unsigned char> vchBlockSig;
 
     // memory only
@@ -929,7 +929,7 @@ public:
         return nEntropyBit;
     }
 
-    // FlashCoin: two types of block: proof-of-work or proof-of-stake
+    // XOR: two types of block: proof-of-work or proof-of-stake
     bool IsProofOfStake() const
     {
         return (vtx.size() > 1 && vtx[1].IsCoinStake());
@@ -945,7 +945,7 @@ public:
         return IsProofOfStake()? std::make_pair(vtx[1].vin[0].prevout, vtx[1].nTime) : std::make_pair(COutPoint(), (unsigned int)0);
     }
 
-    // FlashCoin: get max transaction timestamp
+    // XOR: get max transaction timestamp
     int64_t GetMaxTransactionTime() const
     {
         int64_t maxTransactionTime = 0;
@@ -1088,7 +1088,7 @@ public:
     bool AddToBlockIndex(unsigned int nFile, unsigned int nBlockPos, const uint256& hashProofOfStake);
     bool CheckBlock(bool fCheckPOW=true, bool fCheckMerkleRoot=true, bool fCheckSig=true) const;
     bool AcceptBlock();
-    bool GetCoinAge(uint64_t& nCoinAge) const; // FlashCoin: calculate total coin age spent in block
+    bool GetCoinAge(uint64_t& nCoinAge) const; // XOR: calculate total coin age spent in block
     bool SignBlock(CWallet& keystore, int64_t nFees);
     bool CheckBlockSignature() const;
 
@@ -1116,13 +1116,13 @@ public:
     CBlockIndex* pnext;
     unsigned int nFile;
     unsigned int nBlockPos;
-    uint256 nChainTrust; // FlashCoin: trust score of block chain
+    uint256 nChainTrust; // XOR: trust score of block chain
     int nHeight;
 
     int64_t nMint;
     int64_t nMoneySupply;
 
-    unsigned int nFlags;  // FlashCoin: block index flags
+    unsigned int nFlags;  // XOR: block index flags
     enum  
     {
         BLOCK_PROOF_OF_STAKE = (1 << 0), // is proof-of-stake block

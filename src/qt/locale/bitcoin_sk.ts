@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About FlashCoin</source>
-        <translation>O FlashCoin</translation>
+        <source>About XOR</source>
+        <translation>O XOR</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;FlashCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;FlashCoin&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;XOR&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;XOR&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FlashCoin developers</source>
+Copyright © 2014 The XOR developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The FlashCoin developers</translation>
+Copyright © 2014 The XOR developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your FlashCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše FlashCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your XOR addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše XOR adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a FlashCoin address</source>
-        <translation>Podpísať správu, že vlastníte FlashCoin adresu</translation>
+        <source>Sign a message to prove you own a XOR address</source>
+        <translation>Podpísať správu, že vlastníte XOR adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified FlashCoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou FlashCoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified XOR address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou XOR adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>FlashCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>FlashCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>XOR will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>XOR sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about FlashCoin</source>
-        <translation>Zobraziť informácie o FlashCoin</translation>
+        <source>Show information about XOR</source>
+        <translation>Zobraziť informácie o XOR</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a FlashCoin address</source>
-        <translation>Poslať mince na FlashCoin adresu</translation>
+        <source>Send coins to a XOR address</source>
+        <translation>Poslať mince na XOR adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for FlashCoin</source>
-        <translation>Upraviť možnosti konfigurácie pre FlashCoin</translation>
+        <source>Modify configuration options for XOR</source>
+        <translation>Upraviť možnosti konfigurácie pre XOR</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-202"/>
-        <source>FlashCoin</source>
-        <translation>FlashCoin</translation>
+        <source>XOR</source>
+        <translation>XOR</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About FlashCoin</source>
-        <translation>&amp;O FlashCoin</translation>
+        <source>&amp;About XOR</source>
+        <translation>&amp;O XOR</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>FlashCoin client</source>
-        <translation>FlashCoin client</translation>
+        <source>XOR client</source>
+        <translation>XOR client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to FlashCoin network</source>
-        <translation><numerusform>%n aktívne spojenie s FlashCoin sieťov</numerusform><numerusform>%n aktívnych spojení s FlashCoin sieťov</numerusform><numerusform>%n aktívnych spojení s FlashCoin sieťov</numerusform></translation>
+        <source>%n active connection(s) to XOR network</source>
+        <translation><numerusform>%n aktívne spojenie s XOR sieťov</numerusform><numerusform>%n aktívnych spojení s XOR sieťov</numerusform><numerusform>%n aktívnych spojení s XOR sieťov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About FlashCoin card</source>
-        <translation>O FlashCoin karte</translation>
+        <source>About XOR card</source>
+        <translation>O XOR karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about FlashCoin card</source>
-        <translation>Zobraziť informácie o FlashCoin karte</translation>
+        <source>Show information about XOR card</source>
+        <translation>Zobraziť informácie o XOR karte</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -668,8 +668,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid FlashCoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou FlashCoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid XOR address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou XOR adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,8 +728,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. FlashCoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. FlashCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. XOR can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. XOR už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid FlashCoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou FlashCoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid XOR address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou XOR adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>FlashCoin-Qt</source>
-        <translation>FlashCoin-Qt</translation>
+        <source>XOR-Qt</source>
+        <translation>XOR-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start FlashCoin after logging in to the system.</source>
-        <translation>Automaticky spustiť FlashCoin po prihlásení sa do systému.</translation>
+        <source>Automatically start XOR after logging in to the system.</source>
+        <translation>Automaticky spustiť XOR po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start FlashCoin on system login</source>
-        <translation>&amp;Spustiť FlashCoin pri prihlásení do systému</translation>
+        <source>&amp;Start XOR on system login</source>
+        <translation>&amp;Spustiť XOR pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,8 +1179,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the FlashCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta FlashCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the XOR client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta XOR na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1189,8 +1189,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the FlashCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti FlashCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the XOR network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti XOR cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1264,8 +1264,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting FlashCoin.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní FlashCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting XOR.</source>
+        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní XOR.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,8 +1279,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show FlashCoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť FlashCoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show XOR addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť XOR adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1326,8 +1326,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting FlashCoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní FlashCoin.</translation>
+        <source>This setting will take effect after restarting XOR.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní XOR.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1345,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the FlashCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou FlashCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XOR network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou XOR po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1561,8 +1561,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the FlashCoin-Qt help message to get a list with possible FlashCoin command-line options.</source>
-        <translation>Zobraziť FlashCoin-Qt nápovedu k získaniu zoznamu pre možnosti FlashCoin príkazového riadku.</translation>
+        <source>Show the XOR-Qt help message to get a list with possible XOR command-line options.</source>
+        <translation>Zobraziť XOR-Qt nápovedu k získaniu zoznamu pre možnosti XOR príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,13 +1581,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>FlashCoin - Debug window</source>
-        <translation>FlashCoin - Ladiace okno</translation>
+        <source>XOR - Debug window</source>
+        <translation>XOR - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>FlashCoin Core</source>
-        <translation>FlashCoin Core</translation>
+        <source>XOR Core</source>
+        <translation>XOR Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,8 +1596,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the FlashCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte FlashCoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
+        <source>Open the XOR debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte XOR ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1606,8 +1606,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the FlashCoin RPC console.</source>
-        <translation>Vitajte v FlashCoin RPC konzole.</translation>
+        <source>Welcome to the XOR RPC console.</source>
+        <translation>Vitajte v XOR RPC konzole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1680,8 +1680,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 FLASH</source>
-        <translation>123.456 FLASH {0.00 ?}</translation>
+        <source>0.00 XOR</source>
+        <translation>123.456 XOR {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1750,8 +1750,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 FLASH</source>
-        <translation>123.456 FLASH</translation>
+        <source>123.456 XOR</source>
+        <translation>123.456 XOR</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1765,8 +1765,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Zadajte FlashCoin adresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Zadajte XOR adresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,8 +1865,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid FlashCoin address</source>
-        <translation>VAROVANIE: Neplatná FlashCoin adresa</translation>
+        <source>WARNING: Invalid XOR address</source>
+        <translation>VAROVANIE: Neplatná XOR adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1939,8 +1939,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Zadaj a FlashCoin addresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Zadaj a XOR addresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
 </context>
 <context>
@@ -2000,8 +2000,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this FlashCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto FlashCoin adresu</translation>
+        <source>Sign the message to prove you own this XOR address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto XOR adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified FlashCoin address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou FlashCoin adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified XOR address</source>
+        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou XOR adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,8 +2043,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a FlashCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Zadajte FlashCoin adresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a XOR address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Zadajte XOR adresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2053,8 +2053,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter FlashCoin signature</source>
-        <translation>Zadajte FlashCoin podpis</translation>
+        <source>Enter XOR signature</source>
+        <translation>Zadajte XOR podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2624,8 +2624,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>FlashCoin version</source>
-        <translation>FlashCoin verzia</translation>
+        <source>XOR version</source>
+        <translation>XOR verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2634,8 +2634,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or FlashCoind</source>
-        <translation>Pošli príkaz na -server alebo FlashCoind</translation>
+        <source>Send command to -server or XORd</source>
+        <translation>Pošli príkaz na -server alebo XORd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2654,13 +2654,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: FlashCoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: FlashCoin.conf)</translation>
+        <source>Specify configuration file (default: XOR.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: XOR.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: FlashCoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: FlashCoind.pid)</translation>
+        <source>Specify pid file (default: XORd.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: XORd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2809,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong FlashCoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny FlashCoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XOR will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny XOR nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2999,24 +2999,24 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=FlashCoinrpc
+rpcuser=XORrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;FlashCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;XOR Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=FlashCoinrpc
+rpcuser=XORrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;FlashCoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;XOR Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3140,13 +3140,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;FlashCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  FlashCoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. FlashCoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  XOR is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. XOR už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>FlashCoin</source>
-        <translation>FlashCoin</translation>
+        <source>XOR</source>
+        <translation>XOR</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;FlashCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of FlashCoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu FlashCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of XOR</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu XOR</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart FlashCoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte FlashCoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart XOR to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte XOR k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;FlashCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. FlashCoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. FlashCoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. XOR is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. XOR je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>
